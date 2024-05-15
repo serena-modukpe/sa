@@ -1,0 +1,90 @@
+
+
+.image{
+    width: max-content;
+}
+
+.allodoto img{
+    margin-left: 6%;
+    max-width: 35%;
+    height:70%;
+}
+
+.topbar{
+    box-shadow: 0px 8px 10px rgba(0, 0, 0, 0.1);
+    height:auto;
+    background-color: white;
+}
+
+.banner {
+    background-image: url('../assets/img/slide1.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 400px; /* Ajustez la hauteur selon vos besoins */
+    color: #fff; /* Couleur du texte */
+    text-align: center; /* Alignement du texte au centre */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .banner-content {
+    max-width: 800px; /* Ajustez la largeur du contenu selon vos besoins */
+    padding: 20px;
+  }
+  
+
+.allodoto a {
+    text-decoration: none;
+    list-style: none;
+    color: black;
+    
+}
+
+.apr
+
+
+header a:hover{
+    color: rgb(0, 132, 255);
+}
+
+header .li{
+    
+    text-decoration: none;
+    list-style: none;
+    padding-right:2% ;
+    padding-right: 2%;
+}
+
+.register{
+    padding: 6px;
+    color: rgb(41, 39, 39);
+    border-radius: 10%;
+}
+
+.login{
+    padding: 6px;
+    color: blue;
+    border-radius: 10%;
+    
+}
+
+.nous{
+    border: 2px solid black;
+}
+
+.image1{
+   margin-left: 25%; 
+    
+}
+
+.premiere{
+    height:300px;
+    text-align: center;
+}
+   
+.deuxieme{
+ 
+    height:300px;
+}
+
